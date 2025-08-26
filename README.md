@@ -2,7 +2,7 @@
 A project built as part of the freeCodeCamp Responsive Web Design course. It’s a reference-style webpage created with HTML and CSS, featuring a navigation menu and structured sections for clear, accessible instructions.
 
 ## Live demo
-  https://catalinatovar.github.io/Survey-form-/
+  https://catalinatovar.github.io/Technical-Documentation-Page/
 
 ## Screenshot
 <img width="1978" height="1720" alt="image" src="https://github.com/user-attachments/assets/28e44cd0-a70b-44e1-8d2d-2856d920383d" />
